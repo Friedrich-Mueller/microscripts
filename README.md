@@ -8,9 +8,9 @@ This repository provides an automated workflow to format structured notes and ge
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="images/GDoc_before.jpg" width="230" alt="Google Docs"><br><sub><b>Google docs</b><br>Format your presentation notes like this in google docs</sub></td>
-    <td align="center" width="33%"><img src="images/GDoc_after.jpg" width="230" alt=".gs script"><br><sub><b>.gs script</b><br>The tag_formatting.gs formats only the bracketed parts.</sub></td>
-    <td align="center" width="33%"><img src="images/pdf_final.jpg" width="230" alt=".py script"><br><sub><b>.py script</b><br>The final output of convert.py. This is the topleft card in a 9x9 grid landscape layout.</sub></td>
+    <td align="center" width="33%"><img src="images/GDoc_before.JPG" width="230" alt="Google Docs"><br><sub><b>Google docs</b><br>Format your presentation notes like this in google docs</sub></td>
+    <td align="center" width="33%"><img src="images/GDoc_after.JPG" width="230" alt=".gs script"><br><sub><b>.gs script</b><br>The tag_formatting.gs formats only the bracketed parts.</sub></td>
+    <td align="center" width="33%"><img src="images/pdf_final.JPG" width="230" alt=".py script"><br><sub><b>.py script</b><br>The final output of convert.py. This is the topleft card in a 9x9 grid landscape layout.</sub></td>
   </tr>
 </table>
 
